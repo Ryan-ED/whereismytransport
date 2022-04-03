@@ -1,0 +1,19 @@
+{
+  "name": "whereismytransport",
+  "version": "1.0.0",
+  "description": "Technical assessment for WhereIsMyTransport Junior Full Stack Engineer position",
+  "main": "scores",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryan-ED/whereismytransport.git"
+  },
+  "author": "Ryan Daniels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryan-ED/whereismytransport/issues"
+  },
+  "homepage": "https://github.com/Ryan-ED/whereismytransport#readme"
+}
